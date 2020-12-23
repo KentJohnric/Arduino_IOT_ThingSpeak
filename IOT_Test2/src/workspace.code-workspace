@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"name": "BlinkTest",
+			"path": "..\\..\\BlinkTest"
+		},
+		{
+			"name": "IOT_Test2",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
